@@ -1,0 +1,31 @@
+QUE ES GIT 
+	Es un sistema de control de versiones, es decir puede registrar el historial de cambios de un proyecto
+
+REPOSITORIO 
+	Es el proyecto que es seguido por GIT, tiene un historial 
+	
+COMMIT 
+	Son los cambios registrados, estos se tienen que mandar de forma manual 
+
+RAMAS 
+	Los caminos por los que se va llendo el proyecto 
+
+CLON
+
+FORK 
+	Proyecto que se crea apartir de otro 
+	
+	
+					CARACTERISTICAS
+DISTRIBUIDO 
+	
+	
+					TRABAJO EN GIT 
+
+git init 	Crear un repositorio
+
+git clone 	Crear un clon del repositorio 
+
+git add 	mandar al stagin area, esto es un paso de mandar al repositorio 
+
+git commit 	manda los cambios de los archivos al repositorio   
